@@ -1,6 +1,6 @@
 [submodule "Adafruit_Python_DHT"]
-	path = Adafruit_Python_DHT
+	path = subrepos/Adafruit_Python_DHT
 	url = https://github.com/adafruit/Adafruit_Python_DHT.git
 [submodule "raspberry-pi-terrarium"]
-	path = raspberry-pi-terrarium
+	path = subrepos/raspberry-pi-terrarium
 	url = https://github.com/tombennet/raspberry-pi-terrarium.git
