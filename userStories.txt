@@ -1,0 +1,23 @@
+User Story #1
+
+Jako uzytkownik chce odczytać aktualną temperaturę w terarium, zeby ja znać.
+
+User Story #2
+
+Jako uzytkownik chce odczytac aktualna wilgotnosc w terrarium zeby ja znac.
+
+User Story #3
+
+Jako uzytkownik chce miec mozliwosc podwyzszenia temperatury do zadanej wartosci.
+
+User Story #4
+
+Jako uzytkownik chce miec mozliwosc podwyzszenia wilgotnsci do zadanej wartosci.
+
+User Story #5
+
+Jako uzytkownik chce miec mozliowsc nastawienia temperatury i wilgotnosci ktora ma byc podtrzymywana w terrarium.
+
+User Story 6
+
+Jako uzytkownik chce miec mozliwosc rejestracji odczytow wilgootnosci i temperatury.
