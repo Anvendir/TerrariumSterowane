@@ -27,8 +27,8 @@ def getHumidityAndTemperature():
 enableHeaterTemperature_Celsius = 25
 disableHeaterTemperature_Celsius = 26
 
-enableHumidifierMoistness_Procent = 94
-disableHumidifierMoistness_Procent = 97
+enableHumidifierMoistness_Procent = 89
+disableHumidifierMoistness_Procent = 95
 
 heater = Energenie(2, initial_value=False) 
 humidifier = Energenie(3, initial_value=False)
